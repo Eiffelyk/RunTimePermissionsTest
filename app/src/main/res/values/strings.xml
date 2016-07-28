@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">RunTimePermissionsTest</string>
+    <string name="app_name">权限测试</string>
     <!--权限跳转对话框-->
     <string name="act_persimssion_dialg_title_str">权限申请</string>
-    <string name="act_persimssion_message_dialg_message_str">为了您正常使用智慧家,需要您同意</string>
+    <string name="act_persimssion_message_dialg_message_str">为了您正常使用权限测试,需要您同意</string>
     <string name="act_persimssion_message_dialg_cancel_str">拒绝</string>
     <string name="act_persimssion_message_dialg_sure_str">允许</string>
-    <string name="act_welcome_persimssion_dialg_message_str">在设置-应用-智慧家-权限中开启%1$s权限后，重试之前的操作</string>
-    <string name="act_resetgatesuccess_persimssion_dialg_message_str">在设置-应用-智慧家-权限中开启位置信息权限，以正常使用智慧家功能</string>
+    <string name="act_welcome_persimssion_dialg_message_str">在设置-应用-权限测试-权限中开启%1$s权限后，重试之前的操作</string>
+    <string name="act_resetgatesuccess_persimssion_dialg_message_str">在设置-应用-智慧家-权限中开启位置信息权限，以正常使用权限测试功能</string>
     <string name="act_persimssion_dialg_tosetting_str">去设置</string>
 
 </resources>
